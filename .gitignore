@@ -3,6 +3,7 @@ data/raw/
 
 # results model checkpoints
 results/model_checkpoints/
+results/simclr_demo
 
 # MacOS
 .DS_Store
