@@ -1,6 +1,9 @@
 # Data folder contents
 data/raw/
 
+# results model checkpoints
+results/model_checkpoints/
+
 # MacOS
 .DS_Store
 
